@@ -6,7 +6,9 @@ Nodejs (NestJs, ExpressJs, FastifyJs) --
 
 PHP --
 
-Blockchain Development (Solidity, Smart Contracts)
+Blockchain Development (Solidity, Smart Contracts) --
+
+Frontend (Javascript, React)
 
 
 <!--

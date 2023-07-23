@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# Full Stack Web Developer
+# Nodejs (NestJs, ExpressJs, FastifyJs)
+# PHP
+# Blockchain Development (Solidity, Smart Contracts)
+
+
 <!--
 **farazpassu/farazpassu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

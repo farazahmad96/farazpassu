@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-Full Stack Web Developer --
+Full Stack Web Developer
 
-Nodejs (NestJs, ExpressJs, FastifyJs) --
+Nodejs (NestJs, ExpressJs, FastifyJs)
 
-PHP --
+PHP (Custom, Laravel)
 
-Blockchain Development (Solidity, Smart Contracts) --
+Blockchain Development (Solidity, Smart Contracts)
 
 Frontend (Javascript, React)
 
